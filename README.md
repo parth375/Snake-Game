@@ -1,3 +1,3 @@
 # Snake-Game
 A fun Interactive Game made using OOPS concept
-https://snazzy-banoffee-df28e4.netlify.app
+https://snake-game-btayb1akl-parth375.vercel.app/
